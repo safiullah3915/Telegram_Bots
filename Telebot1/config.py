@@ -1,0 +1,3 @@
+BOT_API = '7196145272:AAEaarHEm9ONYTaU3ZZcbSixsSwkxuxmqZc'
+OPENAI_KEY = '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'
+my_id = ''
